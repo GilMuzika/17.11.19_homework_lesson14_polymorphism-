@@ -1,0 +1,10 @@
+C:\Users\Gil\source\repos\17.11.19_homework_lesson14_Itay\17.11.19_homework_lesson14_Itay\bin\Debug\17.11.19_homework_lesson14_Itay.exe.config
+C:\Users\Gil\source\repos\17.11.19_homework_lesson14_Itay\17.11.19_homework_lesson14_Itay\bin\Debug\17.11.19_homework_lesson14_Itay.exe
+C:\Users\Gil\source\repos\17.11.19_homework_lesson14_Itay\17.11.19_homework_lesson14_Itay\bin\Debug\17.11.19_homework_lesson14_Itay.pdb
+C:\Users\Gil\source\repos\17.11.19_homework_lesson14_Itay\17.11.19_homework_lesson14_Itay\obj\Debug\17.11.19_homework_lesson14_Itay.csprojAssemblyReference.cache
+C:\Users\Gil\source\repos\17.11.19_homework_lesson14_Itay\17.11.19_homework_lesson14_Itay\obj\Debug\_17._11._19_homework_lesson14_Itay.Properties.Resources.resources
+C:\Users\Gil\source\repos\17.11.19_homework_lesson14_Itay\17.11.19_homework_lesson14_Itay\obj\Debug\17.11.19_homework_lesson14_Itay.csproj.GenerateResource.cache
+C:\Users\Gil\source\repos\17.11.19_homework_lesson14_Itay\17.11.19_homework_lesson14_Itay\obj\Debug\17.11.19_homework_lesson14_Itay.exe
+C:\Users\Gil\source\repos\17.11.19_homework_lesson14_Itay\17.11.19_homework_lesson14_Itay\obj\Debug\17.11.19_homework_lesson14_Itay.pdb
+C:\Users\Gil\source\repos\17.11.19_homework_lesson14_Itay\17.11.19_homework_lesson14_Itay\obj\Debug\_17._11._19_homework_lesson14_Vehicles_Itay.Form1.resources
+C:\Users\Gil\source\repos\17.11.19_homework_lesson14_Itay\17.11.19_homework_lesson14_Itay\obj\Debug\17.11.19_homework_lesson14_Itay.csproj.CoreCompileInputs.cache
